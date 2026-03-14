@@ -12,11 +12,12 @@ Ideal para quem precisa criar senhas fortes para proteger contas e sistemas.
 
 ---
 
-📸 Demonstração
+## 🚀 Demonstração
 
-Aqui você pode adicionar uma imagem ou GIF do projeto funcionando.
+![Preview](assets/img-senhas.jpge)
 
-![Preview do Projeto](./assets/preview.png)
+🔗 Acesse o projeto  
+https://cassymari.github.io/Gerador-de-senhas/
 
 ---
 
