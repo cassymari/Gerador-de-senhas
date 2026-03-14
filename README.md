@@ -14,7 +14,7 @@ Ideal para quem precisa criar senhas fortes para proteger contas e sistemas.
 
 ## 🚀 Demonstração
 
-![Preview](assets/img-senhas.jpge)
+![Preview](assets/img-senhas.jpeg)
 
 🔗 Acesse o projeto  
 https://cassymari.github.io/Gerador-de-senhas/
